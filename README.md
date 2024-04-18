@@ -3,7 +3,7 @@
 Markutta is a _quick_, _simple_, and _progressive_ [Markdown](https://www.markdownguide.org/basic-syntax/)
 editor with automatic conversion to HTML and CSS.
 
-> Type your markup in the editor and see it being rendered on the screen 🔥
+> Type your markup in the editor and see it being rendered on the screen! 🔥
 
 ## Features
 
